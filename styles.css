@@ -1,0 +1,150 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#src{
+    size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');*/
+
+/**{*/
+/*    padding: 0px;*/
+/*    margin-top: 0px;*/
+/*    !*box-sizing: border-box;*!*/
+/*}*/
+
+/*body {*/
+/*    height: 100vh;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    font-family: 'Roboto', sans-serif;*/
+/*    !*font-family: "Helvetica Neue", Arial, sans-serif;*!*/
+/*    background-image: url("building-earth.jpg");*/
+/*    background-size: cover;*/
+/*    background-repeat: no-repeat;*/
+/*    background-position: center;*/
+/*}*/
+
+/*.container {*/
+/*    max-width: 1200px;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    flex-direction: column;*/
+/*    flex-wrap: wrap;*/
+/*    !*background-color: red; => test color for responsive design, mobiel versie*!*/
+/*}*/
+
+/*h2 {*/
+/*    color: white;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*}*/
+
+/*#search-container {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*}*/
+
+/*.src-field {*/
+/*    padding: 5px;*/
+/*    border-radius: 15px;*/
+/*    width: auto;*/
+/*}*/
+
+/*.submit-button {*/
+/*    background-color: hsl(81, 55%, 70%);*/
+/*    cursor: pointer;*/
+/*    padding: 5px;*/
+/*    border-radius: 15px;*/
+/*}*/
+
+/*.submit-button:hover {*/
+/*    background-color: hsl(81, 55%, 50%);*/
+/*}*/
+
+/*.submit-button:active {*/
+/*    background-color: hsl(81, 55%, 50%);*/
+/*    transform: translateY(2px); !*drukt "zichtbaar" op de knop*!*/
+/*}*/
+
+/*#flag-country-container {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    flex-direction: column;*/
+/*    width: 350px;*/
+/*    color: white;*/
+/*}*/
+
+/*@supports not (backdrop-filter: blur(10px)) {*/
+/*    .background-text {*/
+/*        background-color: rgba(0,0,0,0.5);*/
+/*    }*/
+/*}*/
+
+/*.background-text {*/
+/*    backdrop-filter: blur(10px);*/
+/*    !*padding: 20px;*!*/
+/*    border-radius: 20px;*/
+/*}*/
+
+/*#country {*/
+/*    margin: 20px;*/
+/*}*/
+
+/*h3 {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*}*/
+
+/*#error-msg {*/
+/*    color: red;*/
+/*    margin: 20px;*/
+/*}*/
+/*!*============*!*/
+
+/*!*heb het er in gezet, ook al is er geen flexbox gebruikt*!*/
+
+/*!*dit is met min-width de vanaf mobiel versie => tablet en desktop*!*/
+/*@media screen and (min-width: 576px) {*/
+/*    .container {*/
+/*        flex-wrap: nowrap;*/
+/*    }*/
+/*    #flag-country-container {*/
+/*        flex-wrap: nowrap;*/
+/*    }*/
+/*}*/
+
